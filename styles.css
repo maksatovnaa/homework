@@ -1,0 +1,132 @@
+h1{
+    background-image: url(https://miro.medium.com/v2/resize:fit:1400/1*JHbpPa0TugDyymxEWgdYVA.jpeg);
+    font-family: 'Covered By Your Grace';
+    font-style: normal;
+    font-weight: 400px;
+    text-align: center;
+    font-size: 79px;
+    height: 400px;
+    color: #050505;
+}
+
+div{
+    background-color:  white;
+    height: auto;
+    background-repeat: no-repeat;   
+}
+
+body{
+    background-color: #eae2d8;
+
+}
+
+h3{
+    font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 200;
+  text-align: center;
+  font-size: x-large;
+  color: #000000;
+}
+p{
+    color: #000000;
+}
+ul li{
+    color: #e3bb97;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 1px;
+    text-decoration: none;
+    list-style: none;
+    
+}
+a{
+    color: #e3ba97cc;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.container{
+    padding: 60px;
+    background-color: #efe9e2
+}
+
+
+.green{
+    background-color: #b0947ccc;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.light{
+    background-color: #a78a71cc;
+    font-family: 'Raleway';
+    font-style: normal #ffffff;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.city{
+    background-color: #6f5c4ccc;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.vienna{
+    background-color: #524439cc;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.italian{
+    background-color: #382f28cc;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+
+h5{
+    color: #ffffff;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+}
+
+h4{
+    color: #ffffff;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+}
+
+h2{
+    font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+}
+
+hr{
+    color: #f5dac1
+}
+
+.roasting{
+    background-color: white;
+    padding: 100px;
+    color: #98938e;
+    font-size: 20px;
+}
